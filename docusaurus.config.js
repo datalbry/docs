@@ -1,33 +1,27 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Docs DataLbry',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'All your knowledge accessible, anytime and anywhere.',
   url: 'https://docs.datalbry.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'datalbry', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  favicon: 'img/logo.png',
+  organizationName: 'datalbry',
+  projectName: 'docs',
   themeConfig: {
     navbar: {
-      title: 'DataLbry',
       logo: {
         alt: 'DataLbry Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
+        href: 'https://docs.datalbry.io/docs/intro',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          label: 'Documentation',
         },
       ],
     },
@@ -37,44 +31,17 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+            // Add items if necessary
           ],
         },
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
+            // Add items if necessary
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Datalbry.io, UG. Built with Docusaurus.`,
     },
   },
   presets: [
