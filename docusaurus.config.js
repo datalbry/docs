@@ -14,12 +14,11 @@ module.exports = {
       logo: {
         alt: 'DataLbry Logo',
         src: 'img/logo.png',
-        href: 'https://docs.datalbry.io/docs/intro',
       },
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'home',
           position: 'left',
           label: 'Documentation',
         },
