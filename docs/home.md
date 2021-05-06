@@ -1,6 +1,9 @@
-# DataLbry Knowledge Cloud
+---
+slug: /
+---
+# Home
 
-The DataLbry Knowledge Cloud is a knowledge management cloud, providing various standard integrations and various tools to analyse and access the knowledge, which is hidden inside your companies data.
+The ****DataLbry Knowledge Cloud*** is a knowledge management cloud, providing various standard integrations and various tools to analyse and access the knowledge, which is hidden inside your companies data.
 
 ## Modules
 

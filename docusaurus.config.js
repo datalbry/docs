@@ -41,7 +41,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Datalbry.io, UG. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Datalbry.io`,
     },
   },
   presets: [
@@ -49,16 +49,8 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-              'https://github.com/datalbry/docs/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-              'https://github.com/datalbry/docs/edit/master/website/blog',
+            sidebarPath: require.resolve('./sidebars.js'),
+            routeBasePath: '/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
