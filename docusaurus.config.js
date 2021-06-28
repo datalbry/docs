@@ -6,14 +6,14 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/datalbry_logo.svg',
   organizationName: 'datalbry',
   projectName: 'docs',
   themeConfig: {
     navbar: {
       logo: {
         alt: 'DataLbry Logo',
-        src: 'img/logo.png',
+          src: 'img/datalbry_logo.svg',
       },
       items: [
         {
