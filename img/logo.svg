@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0674379"
-     inkscape:cx="398.1489"
-     inkscape:cy="540.5715"
+     inkscape:zoom="0.61243009"
+     inkscape:cx="126.0061"
+     inkscape:cy="568.67355"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1700"
-     inkscape:window-height="1440"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,17 +53,17 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="78.354401"
-       y="163.5477"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.3888px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10972"
+       x="-2.9116764"
+       y="159.84984"
        id="text835"><tspan
          sodipodi:role="line"
          id="tspan833"
-         x="78.354401"
-         y="163.5477"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:0.264583"
+         x="-2.9116764"
+         y="159.84984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:1.10972"
          rotate="0 0 0 0 0 0"><tspan
-   style="font-weight:bold;fill:#2d3142;fill-opacity:1"
+   style="font-weight:bold;fill:#2d3142;fill-opacity:1;stroke-width:1.10972"
    id="tspan889">Data</tspan>Lbry</tspan></text>
   </g>
 </svg>
