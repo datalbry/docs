@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61243009"
-     inkscape:cx="126.0061"
-     inkscape:cy="568.67355"
+     inkscape:zoom="0.48486507"
+     inkscape:cx="902.78421"
+     inkscape:cy="572.1588"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1200"
+     inkscape:window-height="1172"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -53,17 +53,18 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.3888px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10972"
-       x="-2.9116764"
-       y="159.84984"
-       id="text835"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.0901px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.57726"
+       x="-5.227581"
+       y="-82.683174"
+       id="text835"
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan833"
-         x="-2.9116764"
-         y="159.84984"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:1.10972"
+         x="-5.227581"
+         y="-82.683174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:1.57726"
          rotate="0 0 0 0 0 0"><tspan
-   style="font-weight:bold;fill:#2d3142;fill-opacity:1;stroke-width:1.10972"
+   style="font-weight:bold;fill:#2d3142;fill-opacity:1;stroke-width:1.57726"
    id="tspan889">Data</tspan>Lbry</tspan></text>
   </g>
 </svg>
