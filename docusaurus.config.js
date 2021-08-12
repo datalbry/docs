@@ -13,7 +13,7 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'DataLbry Logo',
-          src: 'img/datalbry_logo.svg',
+          src: 'img/logo.svg',
       },
       items: [
         {
