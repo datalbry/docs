@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48486507"
-     inkscape:cx="902.78421"
-     inkscape:cy="572.1588"
+     inkscape:zoom="1.3036268"
+     inkscape:cx="304.49667"
+     inkscape:cy="330.67743"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -53,18 +53,17 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.0901px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.57726"
-       x="-5.227581"
-       y="-82.683174"
-       id="text835"
-       transform="rotate(90)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.7361px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06841"
+       x="-3.5856471"
+       y="32.488033"
+       id="text835"><tspan
          sodipodi:role="line"
          id="tspan833"
-         x="-5.227581"
-         y="-82.683174"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:1.57726"
+         x="-3.5856471"
+         y="32.488033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:1.06841"
          rotate="0 0 0 0 0 0"><tspan
-   style="font-weight:bold;fill:#2d3142;fill-opacity:1;stroke-width:1.57726"
+   style="font-weight:bold;fill:#2d3142;fill-opacity:1;stroke-width:1.06841"
    id="tspan889">Data</tspan>Lbry</tspan></text>
   </g>
 </svg>
