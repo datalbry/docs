@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="293.75665mm"
-   height="60.088669mm"
-   viewBox="0 0 293.75666 60.088669"
+   width="249.06609mm"
+   height="58.779423mm"
+   viewBox="0 0 249.0661 58.779423"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71130076"
-     inkscape:cx="666.03712"
-     inkscape:cy="6.0892575"
+     inkscape:zoom="1.2165964"
+     inkscape:cx="428.63208"
+     inkscape:cy="-2.281917"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1144"
+     inkscape:window-width="3440"
+     inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,20 +51,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.37913163,-0.01858186)">
+     transform="translate(-0.34131484,-0.05867195)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.5313px;line-height:1.25;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.56329"
-       x="-5.422112"
-       y="47.527714"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.5313px;line-height:1.25;font-family:Athelas;-inkscape-font-specification:Athelas;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.56329"
+       x="-2.1599371"
+       y="43.830582"
        id="text835"><tspan
          sodipodi:role="line"
          id="tspan833"
-         x="-5.422112"
-         y="47.527714"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Nadeem PUA';-inkscape-font-specification:'.Nadeem PUA';fill:#2d3142;fill-opacity:1;stroke-width:1.56329"
+         x="-2.1599371"
+         y="43.830582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Athelas;-inkscape-font-specification:Athelas;fill:#2d3142;fill-opacity:1;stroke-width:1.56329"
          rotate="0 0 0 0 0 0"><tspan
-   style="font-weight:bold;fill:#2d3142;fill-opacity:1;stroke-width:1.56329"
-   id="tspan889">Data</tspan>Lbry</tspan></text>
+           style="font-weight:bold"
+           id="tspan845">Data</tspan><tspan
+           style="fill:#61657b;fill-opacity:1"
+           id="tspan843">Lbry</tspan></tspan></text>
   </g>
 </svg>
