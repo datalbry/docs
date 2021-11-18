@@ -1,3 +1,53 @@
 # Quickstart
 
-test
+In this quickstart you will setup DataLbry's Clockify Connector.
+
+## Dependencies
+
+You will need the following dependencies to run the code and develop:
+
+- [Docker](https://www.docker.com/)
+- [Java 11](https://www.oracle.com/java/technologies/downloads/)
+- [Kotlin](https://kotlinlang.org/)
+- [Gradle](https://gradle.org/)
+- [Clockify User Account](https://clockify.me/)
+
+## Obtaining the code
+
+You can obtain the code simply with Git. The Clockify connector is on GitHub. So you can go to your desired directory
+and execute the following command to download the code with git.
+
+```
+$ git clone git@github.com:datalbry/clockify-connector.git
+```
+
+## Obtaining Credentials
+
+To be able to use Clockify's API, you need to obtain the credentials and the base endpoint.
+
+To obtain the API key, simply head to your user settings in the web frontend and scroll to the bottom of the page. The
+API Base Endpoint depends on your setup.
+
+If you don't have a self hosted clockify instance, then your endpoint is `https:/api.clockify.me/api/v1`.
+If you have a self hosted clockify instance, then your endpoint is `https://yourcustomdomain.com/api`.clockify
+For more information please check out: [https://clockify.me/developers-api](https://clockify.me/developers-api)
+
+Now that you have obtained the credentials you need to add them to your gradle properties. We don't want to store them
+in the project properties because it can happen that they leak into the git repository making them effectively public.
+Instead, insert them into your gradle properties at ~/.gradle/gradle.properties
+
+```sh
+datalbry.clockify.apiKey = <yourApiKey>
+datalbry.clockify.uri = <yourEndpoint>
+```
+
+## Download the dependencies
+
+If you are using an IDE like IntelliJ IDEA then you probably don't need this part but if you are using the Gradle CLI
+then you can download the dependencies with gradle `./gradlew build`.
+
+
+## Testing
+
+The tests are only working for DataLbry's test instance. If you don't have access to it (via the api key) then your
+tests will fail. All integration tests should be written against the test instance.
