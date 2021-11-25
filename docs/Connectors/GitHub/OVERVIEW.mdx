@@ -1,0 +1,47 @@
+import TOCInline from '@theme/TOCInline';
+
+# Overview
+
+<TOCInline toc={toc} />;
+
+This document is giving you an overview of the DataLbry's GitHub Connector for version `0.0.1`.
+
+## What is GitHub?
+
+> GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the
+> distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides
+> access control and several collaboration features such as bug tracking, feature requests, task management, continuous
+> integration and wikis for every project.
+>
+> -- <cite> https://en.wikipedia.org/wiki/GitHub </cite>
+
+## Obtaining Credentials
+
+To be able to use this connector you need the to provide your **personal access token**. To do so, you first
+need to log into your GitHub account at [https://github.com](https://github.com/). Then you have to
+follow [GitHub's official documentation on how to obtain your personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+.
+
+:::info
+
+If you set your personal access key valid for only 7 days, then the connector will be able to load the data from GitHub
+for only 7 days too.
+
+:::
+
+Lastly you have to give your personal access token all read/view permissions. Such that the connector can actually read
+the data.
+
+## Targeted Documents
+
+Currently, the following documents are targeted by the connector:
+
+- Logged in User
+- Organizations
+- Repositories of logged-in user and organizations
+- Issues of repositories
+- Releases of repositories
+
+
+
+
